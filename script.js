@@ -24,3 +24,5 @@ function maximum(a,b){
 }
 
 
+let myTestNumbers = [5, 8, 13, 21, 34, 610, 55, 3, 89, 144, 233, 377];
+
